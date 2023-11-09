@@ -13,8 +13,12 @@ Python = Linguagem de programação
 
 - Docstrings funciona quando queremos comento e explicar sobre noss código podemos utilizar 3 aspas simples ou compostas
 
+- Tudo em python é um objeto
+
 ## Aprendizados
 
 - A função print é utilizada para exibir informações na tela e ela recebe uma argumento.
 
 - A função (classe)type mostra o tipo do python
+
+- Tipos imutáveis e primitivos (str, int, float, bool)
