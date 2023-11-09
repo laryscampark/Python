@@ -22,3 +22,5 @@ Python = Linguagem de programação
 - A função (classe)type mostra o tipo do python
 
 - Tipos imutáveis e primitivos (str, int, float, bool)
+
+- Utilizando o f string (formatação de string) habilito utilizar variaveis já existente
