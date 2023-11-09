@@ -1,12 +1,11 @@
 
 # Estudos Python
+Repositório com objetivo de melhorar os estudos em relação ao Python. 
 
 Python = Linguagem de programação
 
 ## Características
 - Tipo de tipagem = Dinâmica - Forte
-
-Repositório com objetivo de melhorar os estudos em relação ao Python.
 
 
 ## Informações importantes
