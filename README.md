@@ -16,3 +16,5 @@ Python = Linguagem de programação
 ## Aprendizados
 
 - A função print é utilizada para exibir informações na tela e ela recebe uma argumento.
+
+- A função (classe)type mostra o tipo do python
