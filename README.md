@@ -30,3 +30,5 @@ Python = Linguagem de programação
 - Utilizando o f string (formatação de string) habilito utilizar variaveis já existente
 
 - Strings em python são iteráveis
+
+- in (está entre) e not in (não está entre)
