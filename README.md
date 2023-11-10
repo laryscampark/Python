@@ -17,6 +17,8 @@ Python = Linguagem de programação
 
 - if (se) / elif (se não se) / else (se não)
 
+- shift + alt + seta para baixo copia o codigo acima
+
 ## Aprendizados
 
 - A função print é utilizada para exibir informações na tela e ela recebe uma argumento.
