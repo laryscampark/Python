@@ -28,3 +28,5 @@ Python = Linguagem de programação
 - Tipos imutáveis e primitivos (str, int, float, bool)
 
 - Utilizando o f string (formatação de string) habilito utilizar variaveis já existente
+
+- Strings em python são iteráveis
