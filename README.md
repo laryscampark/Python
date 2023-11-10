@@ -15,6 +15,8 @@ Python = Linguagem de programação
 
 - Tudo em python é um objeto
 
+- if (se) / elif (se não se) / else (se não)
+
 ## Aprendizados
 
 - A função print é utilizada para exibir informações na tela e ela recebe uma argumento.
