@@ -32,3 +32,5 @@ Python = Linguagem de programação
 - Strings em python são iteráveis
 
 - in (está entre) e not in (não está entre)
+
+- A função len retorna a quantidade de caracteres da string
