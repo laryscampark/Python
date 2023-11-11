@@ -34,3 +34,8 @@ Python = Linguagem de programação
 - in (está entre) e not in (não está entre)
 
 - A função len retorna a quantidade de caracteres da string
+
+## Introdução ao try/except
+
+- Try -> Tenta executar o código
+- Except - Ocorre quando algum erro ao tentar exercutar
