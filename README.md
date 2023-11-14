@@ -19,6 +19,14 @@ Python = Linguagem de programação
 
 - shift + alt + seta para baixo copia o codigo acima
 
+- Flag - Marcar um local
+
+- None = Não valor
+
+- is e is not = é ou não é (tipo, valor, identidade)
+
+- Id = identidade
+
 ## Aprendizados
 
 - A função print é utilizada para exibir informações na tela e ela recebe uma argumento.
