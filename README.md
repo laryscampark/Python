@@ -47,3 +47,7 @@ Python = Linguagem de programação
 
 - Try -> Tenta executar o código
 - Except - Ocorre quando algum erro ao tentar exercutar
+
+## Documentação do Python
+
+- https://docs.python.org/pt-br/3/library/stdtypes.html
