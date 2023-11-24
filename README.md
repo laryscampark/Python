@@ -48,6 +48,12 @@ Python = Linguagem de programação
 - Try -> Tenta executar o código
 - Except - Ocorre quando algum erro ao tentar exercutar
 
+## Introdução a Listas
+
+- Tipo list - Mutável
+- Suporta vários valores de qualquer tipo de conhecimentos
+(reutilizáveis, indices e fatiamento)
+- Métodos úteis: append, insert, pop, del, clear, extend, +
 ## Documentação do Python
 
 - https://docs.python.org/pt-br/3/library/stdtypes.html
